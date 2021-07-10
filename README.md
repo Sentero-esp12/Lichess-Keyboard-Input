@@ -58,8 +58,8 @@ So there are several possible solutions. <br />
 a. Using a second keyboard as pedals, removing all the keys except two in the middle in this manner: ![Pedals](https://i2.wp.com/www.synthtopia.com/wp-content/uploads/2018/10/usb-foot-switch-computer-keyboard-e1539127171568.jpg)
 How to build: https://www.youtube.com/watch?v=EGr3lvBtMV0 <br />
 
-b. Heightening two keys (for example, "x" and "v" by gluing something to them) to press them with the palm. Effectively increasing the number of hand digits to 7. <br />
-![Heighten keys](https://i.snag.gy/S8JfLl.jpg) <br />
-![Heighten keys](https://i.snag.gy/YcQZyg.jpg) <br />
+# b. Heightening two keys (for example, "x" and "v" by gluing something to them) to press them with the palm. Effectively increasing the number of hand digits to 7. <br />
+# ![Heighten keys](https://i.snag.gy/S8JfLl.jpg) <br />
+# ![Heighten keys](https://i.snag.gy/YcQZyg.jpg) <br />
 
-c. Mapping some keys to the mouse. ![Mouse mapping](https://i.ytimg.com/vi/duKTSAMomo4/maxresdefault.jpg)
+# c. Mapping some keys to the mouse. ![Mouse mapping](https://i.ytimg.com/vi/duKTSAMomo4/maxresdefault.jpg)
