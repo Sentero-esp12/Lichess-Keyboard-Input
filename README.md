@@ -6,6 +6,9 @@
 
 # Lichess-Keyboard-Input
 
+**[Install from WebStore](https://chrome.google.com/webstore/detail/lichess-keyboard-input/beaekfhgnpkeaemddboeojhljnjoebfl
+)**
+
 How to install: https://lichess.org/forum/team-welcome-keyboard/how-to-install-keyboard-input
 
 Move pieces faster using your keyboard on Lichess <br />
