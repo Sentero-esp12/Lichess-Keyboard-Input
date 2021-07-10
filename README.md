@@ -12,8 +12,8 @@
 )**
 
 
-Move pieces faster using your keyboard on Lichess <br />
-It is a legal way to become faster in ultrabullet
+# Move pieces faster using your keyboard on Lichess <br />
+# It is a legal way to become faster in ultrabullet
 
 **[A video example](https://youtu.be/UAExpNbLlIo
 )**
